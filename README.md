@@ -1,6 +1,6 @@
 # How to make a game using typescript and three
 
-## class 6 source
+## class 7 source
 
 ### usage
 
